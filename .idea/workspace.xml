@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Подготовка проекта к работе.">
+    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Решена задача &quot;Чётные нечетные числа&quot;.">
+      <change afterPath="$PROJECT_DIR$/out/production/Challenges_fundamental/One_Challenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/One_Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +41,20 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="One_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="One_Challenge" />
+      <module name="Challenges_fundamental" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.One_Challenge" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671016548854</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Подготовка проекта к работе.">
+      <created>1671017598052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671017598052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавление в исключения Java и IDEA" />
     <MESSAGE value="Подготовка проекта к работе." />
-    <option name="LAST_COMMIT_MESSAGE" value="Подготовка проекта к работе." />
+    <MESSAGE value="Решена задача &quot;Чётные нечетные числа&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Решена задача &quot;Чётные нечетные числа&quot;." />
   </component>
 </project>
