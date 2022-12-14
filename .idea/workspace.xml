@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Решена задача &quot;Функция, удваивающая значение переменной&quot;.">
-      <change afterPath="$PROJECT_DIR$/src/Three_Challenge.java" afterDir="false" />
+    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Решена 3 задача &quot;Посчитать True в boolean массиве&quot;.">
+      <change afterPath="$PROJECT_DIR$/src/Four_Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,14 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Three_Challenge">
+  <component name="RunManager" selected="Application.Four_Challenge">
+    <configuration name="Four_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Four_Challenge" />
+      <module name="Challenges_fundamental" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="One_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="One_Challenge" />
       <module name="Challenges_fundamental" />
@@ -65,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Four_Challenge" />
         <item itemvalue="Application.Three_Challenge" />
         <item itemvalue="Application.Two_Challenge" />
         <item itemvalue="Application.One_Challenge" />
@@ -115,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671026816222</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Решена 3 задача &quot;Посчитать True в boolean массиве&quot;.">
+      <created>1671047914750</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671047914751</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +149,7 @@
     <MESSAGE value="Подготовка проекта к работе." />
     <MESSAGE value="Решена задача &quot;Чётные нечетные числа&quot;." />
     <MESSAGE value="Решена задача &quot;Функция, удваивающая значение переменной&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Решена задача &quot;Функция, удваивающая значение переменной&quot;." />
+    <MESSAGE value="Решена 3 задача &quot;Посчитать True в boolean массиве&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Решена 3 задача &quot;Посчитать True в boolean массиве&quot;." />
   </component>
 </project>
