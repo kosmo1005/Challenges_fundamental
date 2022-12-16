@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Решена 4 задача &quot;Сколько времени в миллисекундах прошло с полуночи&quot;.">
-      <change afterPath="$PROJECT_DIR$/src/Five_Challenge.java" afterDir="false" />
+    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Решена 5 задача &quot;Поменять int значения в массиве с положительных на отрицательные и наоборот&quot;.">
+      <change afterPath="$PROJECT_DIR$/src/Six_Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Five_Challenge">
+  <component name="RunManager" selected="Application.Six_Challenge">
     <configuration name="Five_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Five_Challenge" />
       <module name="Challenges_fundamental" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One_Challenge" />
+    <configuration name="Six_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Six_Challenge" />
       <module name="Challenges_fundamental" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Six_Challenge" />
         <item itemvalue="Application.Five_Challenge" />
         <item itemvalue="Application.Four_Challenge" />
         <item itemvalue="Application.Three_Challenge" />
         <item itemvalue="Application.Two_Challenge" />
-        <item itemvalue="Application.One_Challenge" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671049934330</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Решена 5 задача &quot;Поменять int значения в массиве с положительных на отрицательные и наоборот&quot;.">
+      <created>1671135993099</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671135993099</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +173,7 @@
     <MESSAGE value="Решена задача &quot;Функция, удваивающая значение переменной&quot;." />
     <MESSAGE value="Решена 3 задача &quot;Посчитать True в boolean массиве&quot;." />
     <MESSAGE value="Решена 4 задача &quot;Сколько времени в миллисекундах прошло с полуночи&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Решена 4 задача &quot;Сколько времени в миллисекундах прошло с полуночи&quot;." />
+    <MESSAGE value="Решена 5 задача &quot;Поменять int значения в массиве с положительных на отрицательные и наоборот&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Решена 5 задача &quot;Поменять int значения в массиве с положительных на отрицательные и наоборот&quot;." />
   </component>
 </project>
