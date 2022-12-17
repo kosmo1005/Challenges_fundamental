@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Решена 8 задача &quot;Преобразование числа в строку&quot;.">
-      <change afterPath="$PROJECT_DIR$/src/Nine_Challenge.java" afterDir="false" />
+    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Решена 9 задача &quot;Отображение значения boolean в строковом виде&quot;.">
+      <change afterPath="$PROJECT_DIR$/src/Ten_Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +47,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Nine_Challenge">
+  <component name="RunManager" selected="Application.Ten_Challenge">
     <configuration name="Eight_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Eight_Challenge" />
-      <module name="Challenges_fundamental" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Five_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Five_Challenge" />
       <module name="Challenges_fundamental" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,13 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ten_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ten_Challenge" />
+      <module name="Challenges_fundamental" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ten_Challenge" />
         <item itemvalue="Application.Nine_Challenge" />
         <item itemvalue="Application.Eight_Challenge" />
         <item itemvalue="Application.Seven_Challenge" />
         <item itemvalue="Application.Six_Challenge" />
-        <item itemvalue="Application.Five_Challenge" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671272962880</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Решена 9 задача &quot;Отображение значения boolean в строковом виде&quot;.">
+      <created>1671273747501</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671273747501</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +218,7 @@
     <MESSAGE value="Решена 6 задача &quot;Функция должна вернуть век. в котором находится год&quot;." />
     <MESSAGE value="Решена 7 задача &quot;Считаем овец&quot;." />
     <MESSAGE value="Решена 8 задача &quot;Преобразование числа в строку&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Решена 8 задача &quot;Преобразование числа в строку&quot;." />
+    <MESSAGE value="Решена 9 задача &quot;Отображение значения boolean в строковом виде&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Решена 9 задача &quot;Отображение значения boolean в строковом виде&quot;." />
   </component>
 </project>
