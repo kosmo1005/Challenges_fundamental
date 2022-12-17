@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Решена 6 задача &quot;Функция должна вернуть век. в котором находится год&quot;.">
-      <change afterPath="$PROJECT_DIR$/src/Seven_Challenge.java" afterDir="false" />
+    <list default="true" id="c222c2ec-9965-40bb-af5d-b702538f4881" name="Changes" comment="Решена 7 задача &quot;Считаем овец&quot;.">
+      <change afterPath="$PROJECT_DIR$/src/Eight_Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seven_Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seven_Challenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Seven_Challenge">
+  <component name="RunManager" selected="Application.Eight_Challenge">
+    <configuration name="Eight_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eight_Challenge" />
+      <module name="Challenges_fundamental" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Five_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Five_Challenge" />
       <module name="Challenges_fundamental" />
@@ -70,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Three_Challenge" />
-      <module name="Challenges_fundamental" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Eight_Challenge" />
         <item itemvalue="Application.Seven_Challenge" />
         <item itemvalue="Application.Six_Challenge" />
         <item itemvalue="Application.Five_Challenge" />
         <item itemvalue="Application.Four_Challenge" />
-        <item itemvalue="Application.Three_Challenge" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671220930497</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Решена 7 задача &quot;Считаем овец&quot;.">
+      <created>1671223523683</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671223523683</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +190,7 @@
     <MESSAGE value="Решена 4 задача &quot;Сколько времени в миллисекундах прошло с полуночи&quot;." />
     <MESSAGE value="Решена 5 задача &quot;Поменять int значения в массиве с положительных на отрицательные и наоборот&quot;." />
     <MESSAGE value="Решена 6 задача &quot;Функция должна вернуть век. в котором находится год&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Решена 6 задача &quot;Функция должна вернуть век. в котором находится год&quot;." />
+    <MESSAGE value="Решена 7 задача &quot;Считаем овец&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Решена 7 задача &quot;Считаем овец&quot;." />
   </component>
 </project>

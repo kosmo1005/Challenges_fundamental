@@ -6,6 +6,7 @@ public class Seven_Challenge {
             System.out.print("(" + a + ")");
             StringBuffer g = new StringBuffer("");
             int w=1;
+            String str = Integer.toString(w);
             for (int o=0;o<a;o++){
                 g.append((w++) + " овца... ");
             }
